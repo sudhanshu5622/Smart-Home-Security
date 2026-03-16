@@ -17,6 +17,17 @@ HADRWARE :-
 6- JUMPER WIRED 
 7- BREADBOARD
 8- SOLENOLD DOOR LOOK SYSTEM
+| Component                   | Quantity |
+| --------------------------- | -------- |
+| ESP32 Development Board     | 1        |
+| Solenoid Door Lock          | 1        |
+| Relay Module                | 2        |
+| PIR Motion Sensor           | 1        |
+| Camera (ESP32-CAM optional) | 1        |
+| Jumper Wires                | Multiple |
+| Breadboard                  | 1        |
+| Power Supply (5V / 12V)     | 1        |
+
 
 SOFWARE : - 
 1- QR CODE SCANNER 
@@ -24,6 +35,18 @@ SOFWARE : -
 3- ARUNIO IDE
 4- ESP36 LIBARARY 
 
+Smartphone App
+      |
+      | WiFi
+      |
+ESP32 Controller
+   |       |        |
+Relay   Solenoid   PIR Sensor
+(Lights) Door Lock Motion Detection
+                    |
+                    |
+              Alert Notification
+            (Gmail / WhatsApp)                                                                                                  
 
 ## 🚀 Key Features
 
