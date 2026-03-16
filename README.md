@@ -5,6 +5,26 @@ An all-in-one IoT solution for home automation and security powered by **ESP32**
 
 ![Project Overview](https://socialify.git.ci)
 
+
+THIS ONE SMART HOME AND SECURITY DESIGNED BY HOME AUTOMAATED APPLICANCES ANS SECURE YOUR HOME AND PROVIDED TO HOMEAUTOMATED WITH REOTILY AND MONETRINGS 
+THATS ARE USED THE COMPNENTS LIKE 
+HADRWARE :- 
+1- ESP36 ( microcontroller )
+1- RELAY
+3- POWER SUPPLY
+4- PUSH BUTTON 
+5- LED LIGHTS 
+6- JUMPER WIRED 
+7- BREADBOARD
+8- SOLENOLD DOOR LOOK SYSTEM
+
+SOFWARE : - 
+1- QR CODE SCANNER 
+2- MOBILE APP 
+3- ARUNIO IDE
+4- ESP36 LIBARARY 
+
+
 ## 🚀 Key Features
 
 ### 1. Smart Door Lock (QR & App Based)
@@ -51,3 +71,6 @@ Real-time surveillance and instant notifications.
 ├── App/
 │   └── Config_Guide.md        # Mobile dashboard setup
 └── README.md
+
+
+
